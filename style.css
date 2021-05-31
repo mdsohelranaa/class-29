@@ -1,0 +1,31 @@
+
+
+
+ .middle{
+     width: 90%;
+     margin: auto;
+ }
+ .ss{
+      width: 90%;
+      margin: auto;
+ }
+ .input-2{
+     margin-left: 98px;
+     width: 500px;
+ }
+ .input-1{
+     width: 500px;
+      
+ }
+.btn-check{
+    width: 100px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    width: 137px;
+    border-color: #28a745;
+}
+.d-flex{
+    margin-left: 380px;
+}
